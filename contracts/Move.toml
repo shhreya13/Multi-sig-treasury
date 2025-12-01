@@ -1,0 +1,7 @@
+[package]
+name = "multi_sig_treasury"
+version = "0.0.1"
+authors = ["Team"]
+
+[addresses]
+multisig = "0x0"
