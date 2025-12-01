@@ -3,14 +3,14 @@
 // --- Configuration Constants (Updated to your NEW deployed IDs) ---
 
 // The Package ID from your successful deployment (Immutable Object)
-export const PACKAGE_ID = "0x88c3d193c016be2d7a6e9d816d7756d4a573ef73ee5821c899cbc37289a87a5e";
+export const PACKAGE_ID = "0xbd901e7b486babbb8ee42efa6caadfd4bcdd61611c1b35bccc440463c02ed9b5";
 
 // The MultiSigWallet Object ID (TREASURY_ID - Shared Object)
-export const TREASURY_ID = "0xe4b21a7763eda0e4abe6723088207375a744779ba522c9ffed443b2e4987c652";
+export const TREASURY_ID = "0x47a42ce6e4d465c54db3f3fd903a80798b2d361695c4b2f090558ae2824e1c19";
 
 // List of all authorized wallet owner addresses (Your only address)
 export const MULTISIG_WALLET_OWNERS = [
-    "0x7aa4262372ebc33202a1e2596a2f5736530bd8289aab4d9f961a4bc5d9e7f050",
+    "0x33ed32993ca4dfbff88ad3c0b7fe5a27770a84605f372bf3b0b111018e408a3f",
 ];
 
 // Number of signatures required to execute a proposal
