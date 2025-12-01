@@ -28,7 +28,7 @@ import {
 // You MUST replace this placeholder with the actual Base64 Public Key for your 
 // owner address (0x7aa42623...). This key is required by the Sui network 
 // to validate the signature and link it to the multi-sig wallet.
-const YOUR_ACTUAL_BASE64_PUBLIC_KEY = "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA="; // Replace this placeholder!
+const YOUR_ACTUAL_BASE64_PUBLIC_KEY = "ALTkwk1Qh3HXVuPf7Bir0Ml0N6WL8g/rkPi+F1c+kblV"; // Replace this placeholder!
 
 // --- SETUP ---
 const app = express();
