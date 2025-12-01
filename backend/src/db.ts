@@ -10,7 +10,7 @@ export const TREASURY_ID = "0x47a42ce6e4d465c54db3f3fd903a80798b2d361695c4b2f090
 
 // List of all authorized wallet owner addresses (Your only address)
 export const MULTISIG_WALLET_OWNERS = [
-    "0x33ed32993ca4dfbff88ad3c0b7fe5a27770a84605f372bf3b0b111018e408a3f",
+    "0x7aa4262372ebc33202a1e2596a2f5736530bd8289aab4d9f961a4bc5d9e7f050",
 ];
 
 // Number of signatures required to execute a proposal
