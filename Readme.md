@@ -1,4 +1,6 @@
-🏦 Sui MultiSig Wallet
+**🏦 Sui MultiSig Wallet**
+
+
 The Sui MultiSig Wallet is a full-stack decentralized application (dApp) designed to secure shared assets on the Sui blockchain using a secure multi-signature consensus mechanism. This system requires a predetermined number of authorized owners to approve any transaction before funds can be released from the Treasury.
 
 ✨ Features
@@ -104,3 +106,4 @@ Click Sign & Execute.
 Since the threshold is 1, the signature immediately triggers the simulated execution, and the status changes to ✅ EXECUTED.
 
 Verification: Check the Sui Testnet Explorer using the transaction digest provided by the backend to confirm the SUI transfer from the Treasury to the recipient.
+
